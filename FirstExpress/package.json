@@ -1,0 +1,25 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "my first MEAN full stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IbrahimAdDandan/FirstExpress.git"
+  },
+  "keywords": [
+    "MEAN",
+    "full",
+    "stack",
+    "Ibrahim",
+    "AdDandan"
+  ],
+  "author": "Ibrahim AdDandan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
