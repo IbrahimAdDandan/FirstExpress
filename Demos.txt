@@ -1,4 +1,0 @@
-ngDatePicker Demo:
-https://ibrahimaddandan.000webhostapp.com/ngDatePicker/index.html
-vuejsDatePicker Demo:
-https://ibrahimaddandan.000webhostapp.com/VuejsDatePicker/index.html#/
