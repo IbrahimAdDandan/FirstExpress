@@ -1,0 +1,118 @@
+    [
+     {
+            "book_id": "112618928",
+            "title": "Lione",
+            "author_lf": "Maalouf Amin",
+            "author_fl": "Amin Maalouf",
+            "ISBN": "",
+            "tags": [
+                "greek history",
+                "love",
+                "greek literature",
+                "blank cover"
+            ],
+            "collections": {
+                "1": "Your library",
+                "316929": "Fiddlesticks"
+            }
+        },
+        {
+            "book_id": "39285978",
+            "title": "Zona disagio",
+            "author_lf": "Franzen, Jonathan",
+            "author_fl": "Jonathan Franzen",
+            "ISBN": "8806193112",
+            "cover": "http://ecx.images-amazon.com\/images\/P\/8806193112.01._SCLZZZZZZZ_.jpg",
+            "collections": {
+                "1": "Your library"
+            }
+        },
+        {
+            "book_id": "30966619",
+            "title": "Zeus: A Journey Through Greece in the Footsteps of a God",
+            "author_lf": "Stone, Tom",
+            "author_fl": "Tom Stone",
+            "ISBN": "158234518X",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/158234518X.01._SCLZZZZZZZ_.jpg",
+            "tags": [
+                "wishlist",
+                "greek religion"
+            ],
+            "collections": {
+                "1": "Your library",
+                "4": "Wishlist"
+            }
+        },
+        {
+            "book_id": "41601804",
+            "title": "Zarafa: a giraffe's true story, from deep in Africa to the heart of Paris",
+            "author_lf": "Allin, Michael",
+            "author_fl": "Michael Allin",
+            "ISBN": "0802713394",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/0802713394.01._SCLZZZZZZZ_.jpg",
+            "collections": {
+                "1": "Your library"
+            }
+        },
+        {
+            "book_id": "79141967",
+            "title": "Ysabel",
+            "author_lf": "Kay, Guy Gavriel",
+            "author_fl": "Guy Gavriel Kay",
+            "ISBN": "0143016695",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/0143016695.01._SCLZZZZZZZ_.jpg",
+            "collections": {
+                "1": "Your library",
+                "156970": "Want to read"
+            }
+        },
+        {
+            "book_id": "3589685",
+            "title": "Your Safari Dragons: In Search of the Real Komodo Dragon",
+            "author_lf": "White, Daniel",
+            "author_fl": "Daniel White",
+            "ISBN": "1595940146",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/1595940146.01._SCLZZZZZZZ_.jpg",
+            "tags": [
+                null
+            ],
+            "collections": {
+                "1": "Your library"
+            }
+        },
+        {
+            "book_id": "118889688",
+            "title": "Young Frankenstein",
+            "author_lf": "Wilder, Gene",
+            "author_fl": "Gene Wilder",
+            "ISBN": "",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/B000G6BLWE.01._SCLZZZZZZZ_.jpg",
+            "tags": [
+                "bettercover"
+            ],
+            "collections": []
+        },
+        {
+            "book_id": "118889679",
+            "title": "Young Frankenstein",
+            "author_lf": "",
+            "author_fl": "",
+            "ISBN": "",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/I\/51KDmdUemhL._SCLZZZZZZZ_.jpg",
+            "tags": [
+                "bettercover"
+            ],
+            "collections": []
+        },
+        {
+            "book_id": "131387846",
+            "title": "Young Catholic America : emerging adults in, out of, and gone from the church",
+            "author_lf": "Smith, Christian",
+            "author_fl": "Christian Smith",
+            "ISBN": "9780199341078",
+            "cover": "http:\/\/ecx.images-amazon.com\/images\/P\/0199341079.01._SCLZZZZZZZ_.jpg",
+            "collections": {
+                "1": "Your library"
+            }
+        }
+    ]
